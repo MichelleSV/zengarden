@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Galada);
+@import url(https://fonts.googleapis.com/css?family=Monofett);
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+@import url(https://fonts.googleapis.com/css?family=Merienda+One);
+.page-wrapper{
+	background-image: url();
+}
+#design-selection{
+	margin: 5%;
+	background-image:url();
+	color: green;
+	font-size: 16px;
+	padding: 20px;
+}
+#zen-supporting{
+	color: white;
+	font-size: 16px;
+	padding: 5%;
+	background-image:url(../canal.jpg);
+}
+p{
+	background-color: black;
+	padding: 20px;
+	color: white;
+	font-family: "Galada";
+}
+body{
+	font-size: 16px;
+	background-color: grey;
+
+}
+header{
+	background-color: lightblue;
+	text-align: center;
+	font-family: "Monofett";
+	font-size: 60px;
+	color: black;
+	padding: 10px;
+}
+html{
+	background-image: url(../img/fondo.jpg);
+}
+#zen-summary p{
+background-color: lightgreen;
+text-align: center;
+position:relative;
+padding: 5%;
+font-family: "Kaushan Script";
+}
+h2{
+	font-size: 50px;
+}
+h3{
+	text-align: center;
+	font-family: "Merienda One";
+	font-size: 30px;
+}
+#zen-preamble{
+	background-color: pink;
+	padding: 5%;
+}
+#zen-sumary{
+	background-color: blue;
+	padding: 5%;
+}
+a{
+	text-decoration:none;
+	color:red;
+}
+#design-selection{
+background-color: lightblue;
+padding-bottom: 30px;
+}
