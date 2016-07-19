@@ -41,11 +41,11 @@ html{
 	background-image: url(../img/fondo.jpg);
 }
 #zen-summary p{
-background-color: lightgreen;
-text-align: center;
-position:relative;
-padding: 5%;
-font-family: "Kaushan Script";
+	background-color: lightgreen;
+	text-align: center;
+	position:relative;
+	padding: 5%;
+	font-family: "Kaushan Script";
 }
 h2{
 	font-size: 50px;
